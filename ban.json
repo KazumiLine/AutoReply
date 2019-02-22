@@ -1,0 +1,57 @@
+{
+    "admin": [
+        "u1ec0c2a8e7c72d45237264d8816508e7",
+        "u2c27110d959b5ac17f839e05abe3bcb1",
+        "udf379d4811d637242a20663a4ebe3901",
+        "u44f209ae548253c4a02057551b9c3341",
+        "u62069502c75d73f158e3973b46a3e02e",
+        "u7ee9e44111040f0a9f7ad13c8407fcc1",
+        "u92bf49833a29a1a4f7f8bddb00676191",
+        "u6c213f7c7376b43ed0ff1473e1d23e14",
+        "uc338f8ef91292e65aea28feb5002d0f3",
+        "ufb3a035e1b3bca4d27d3a0eb24157586"
+    ],
+    "blacklist": {
+        "u4adfe266bf25f55cb801a2505dbbfd8c": true,
+        "udb2e34b6acd8a121026697f239d9bdcb": true
+    },
+    "bots": [
+        "u7fe89a3b00057731fe00c01db54f3d62"
+    ],
+    "mimic": {
+        "copy": false,
+        "status": false,
+        "target": {
+            "u8f35e6a36222c8c2879c0d5a66a4bd9c": true,
+            "ua10c2ad470b4b6e972954e1140ad1891": true,
+            "ue006c548bfffccd02c6a125c0bd6d6f2": true
+        }
+    },
+    "owners": [
+        "ua10c2ad470b4b6e972954e1140ad1891",
+        "u98fcbeb037a4c737e14855622203ca67",
+        "u0505fe1fb484fc1537d12ad53a5a4ea2",
+        "u6e2a0d9249c66d6f66f0efd4530c7fd9",
+        "ub0660655ca6b4aade052882b95bb9791",
+        "u55de2880352cf404c1219b3641bb9e27",
+        "u83c30aa8f88c521a5ba7b3ad5f1d8d7a",
+        "uaa2eb19c02142b8d63b75c149485d083",
+        "u0a59c278b1529476ddb210cb5e827ffc",
+        "u7fe89a3b00057731fe00c01db54f3d62",
+        "u992a6e77041a772b8abd613ea64d4623",
+        "ucaaf32f880c10e14b0e868143210da57",
+        "u72e0a01afb886d1bd34ee595ebec3e36",
+        "udf379d4811d637242a20663a4ebe3901",
+        "u1f3c28ba283f7b752d5da689736b8b4e",
+        "uc338f8ef91292e65aea28feb5002d0f3"
+    ],
+    "s": {
+        "c3a3b11296bb1997a4b4f149723c4e9a4": [
+            "ud5ff1dff426cf9e3030c7ac2a61512f0"
+        ],
+        "c7e69d5297028d6d4b7a3b1bb4b510ac0": [
+            "u7a060714f429400989f85139b32e26a9"
+        ]
+    },
+    "user": {}
+}
